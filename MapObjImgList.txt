@@ -1,0 +1,4 @@
+BossBaldrix.img
+BossDemian.img
+BossKaring.img
+BossSuu.img
