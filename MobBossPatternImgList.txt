@@ -1,0 +1,6 @@
+BossAzmothCanyon.img
+BossBaldrix.img
+BossChampionRaid.img
+BossCommon.img
+BossLimbo.img
+BossSuu.img
