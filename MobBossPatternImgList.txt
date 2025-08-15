@@ -1,6 +1,6 @@
 BossAzmothCanyon.img
 BossBaldrix.img
 BossChampionRaid.img
-BossCommon.img
+BossFirstAdversary.img
 BossLimbo.img
 BossSuu.img
