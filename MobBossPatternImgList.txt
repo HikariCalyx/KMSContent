@@ -1,6 +1,13 @@
 BossAzmothCanyon.img
 BossBaldrix.img
 BossChampionRaid.img
+BossChrono.img
+BossCommon.img
+BossEnterAni.img
+BossFieldSetInfo.img
 BossFirstAdversary.img
 BossLimbo.img
+BossNightmareParadise.img
+BossObject.img
+BossObjectAction.img
 BossSuu.img

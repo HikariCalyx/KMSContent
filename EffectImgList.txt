@@ -50,6 +50,7 @@ Direction41.img
 Direction42.img
 Direction43.img
 Direction44.img
+Direction45.img
 Direction5.img
 Direction6.img
 Direction7.img
@@ -96,9 +97,12 @@ Summon.img
 Tomb.img
 TransitionMask.img
 TreasureHunter.img
+UIEffect.img
+WorldArchiveBonusbook_Illust.img
 eventFrame.img
 fishing.img
 footprint.img
 lut.img
+nightmareParadise.img
 particle.img
 perlin_noise.img

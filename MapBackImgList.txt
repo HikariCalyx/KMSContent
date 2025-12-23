@@ -42,9 +42,14 @@
 2024VipSauna.img
 2024Winter.img
 2024mapleDanmak.img
+2025DeepSeaKing.img
 2025DimensionTower.img
+2025MapleAgit.img
 2025MvpResort.img
+2025MysticBloom.img
 2025Summer.img
+2025centipedePunch.img
+2025monsterParkOffice.img
 2025strangerTide.img
 20thEvent.img
 21stEvent.img
@@ -66,6 +71,9 @@ BM3_3.img
 BM3_4_bossBlackMage.img
 BM_cmd.img
 BossBaldrix.img
+BossChrono_1.img
+BossChrono_E.img
+BossChrono_F.img
 BossDemian.img
 BossDemianCleansed.img
 BossFirstAdversary_1.img
@@ -243,6 +251,7 @@ eurel.img
 event.img
 event2.img
 event2013.img
+event3.img
 event_2018.img
 evolvingSystem.img
 extinction.img
@@ -315,6 +324,7 @@ marineBrickTower.img
 masteriaGL.img
 masteriaGL2.img
 masteriacaveGL.img
+mechaberryFarm.img
 metroCity.img
 metroSubway.img
 metroSubway2.img
@@ -335,6 +345,12 @@ neoCity2.img
 newzakum.img
 nightDesert.img
 nightWalkerDominion.img
+nightmareParadise_1.img
+nightmareParadise_2.img
+nightmareParadise_3.img
+nightmareParadise_Laboratory.img
+nightmareParadise_finalBoss.img
+nightmareParadise_subBoss.img
 odium.img
 omegaSector.img
 omegaSector2.img
@@ -373,6 +389,7 @@ skyStation_New.img
 snowyDarkrock.img
 snowyLightrock.img
 snowyLightrock2.img
+snowyLightrockNight.img
 solErda.img
 spinOff1.img
 squadMap_back.img

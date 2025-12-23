@@ -1,4 +1,5 @@
 16thCoconut.img
+2509VictoriaAdventure.img
 BM2_1.img
 BM2_2.img
 BM2_3.img
@@ -157,7 +158,9 @@ sandySeaFloor.img
 snowyDarkrock.img
 snowyLightrock.img
 snowyLightrock2.img
+snowyLightrock2Night.img
 snowyLightrock3.img
+snowyLightrockNight.img
 snowyRord.img
 spinOff1.img
 spinOff1Night.img
