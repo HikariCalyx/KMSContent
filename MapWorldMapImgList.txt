@@ -82,3 +82,4 @@ WorldMap300.img
 WorldMap310.img
 WorldMap320.img
 WorldMap340.img
+WorldMap350.img
