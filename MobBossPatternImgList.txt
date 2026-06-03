@@ -9,7 +9,7 @@ BossFirstAdversary.img
 BossLimbo.img
 BossLuppiter.img
 BossNightmareParadise.img
-BossObject.img
-BossObjectAction.img
 BossSuu.img
 BossYmir.img
+BossLuppiterObjectAction.img
+BossYmirObjectAction.img
