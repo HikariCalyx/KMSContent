@@ -51,6 +51,9 @@ Direction42.img
 Direction43.img
 Direction44.img
 Direction45.img
+Direction46.img
+Direction47.img
+Direction48.img
 Direction5.img
 Direction6.img
 Direction7.img
